@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "rating": 9,
+    "stock": 12
+  },
+  {
+    "id": 2,
+    "title": "Clean Code",
+    "author": "Robert Martin",
+    "rating": 8,
+    "stock": 2
+  },
+  {
+    "id": 3,
+    "title": "1984",
+    "author": "George Orwell",
+    "rating": 10,
+    "stock": 5
+  },
+  {
+    "id": 4,
+    "title": "Isineke",
+    "author": "Phawu Mkwayimba",
+    "rating": 9,
+    "stock": 3
+  }
+]
